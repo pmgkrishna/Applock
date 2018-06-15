@@ -1,0 +1,8 @@
+<resources>
+<string name="app_name">App Lock</string>
+<string-array name="spinnerItems">
+    <item>What is your Nick Name?</item>
+    <item>Which is your Favourite Sport?</item>
+    <item>What is your Favourite Food?</item>
+</string-array>
+</resources>
